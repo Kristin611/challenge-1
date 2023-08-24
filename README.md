@@ -1,6 +1,6 @@
 # Challenge 1: Refactor Horiseon
 
-##Description
+## Description
 The purpose of this project is to improve the accessibility of Horiseon's website. 
 By making a website more accessible, people with physical disabilities have greater access to it. Accessibility also improves a website's position in search engine results, increasing the website's overall traffic. 
 Finally, the more accessible a company's website is the better they can avoid litigation. 
