@@ -14,3 +14,4 @@ Note: the peers that I worked with on this project are Nick Amaro, Grace Kiker, 
 <img width="1027" alt="Horiseon" src="https://github.com/Kristin611/challenge-1/assets/131815565/dc9cc0fb-e5c1-4a08-8292-c95c634ad4ff">
 
 
+Link to live site: https://kristin611.github.io/challenge-1/
